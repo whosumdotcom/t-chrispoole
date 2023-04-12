@@ -1,0 +1,39 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-12T06:26:40Z",
+  "IdClaims": [
+    {
+      "Claim": "t:chrispoole"
+    },
+    {
+      "Claim": "gh:chrispoole643"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "00c97ece5fa4c4f28cc5e739",
+    "Timestamp": "2023-04-12T06:31:36Z",
+    "Signature": "759660bb25a46f9f45fdc0f50e0c768d3e87c853fde963454b821d3697719e452004b0b3d128904a84c97a88eff61c8856bcde8bfa5a7ef8d16f2ad774f8e29aeb443dc2b2a4d116604cc7c4317095ec9626d04ed475b14e97044cbf49e1b4513209fb783d8954ee8134b7ada90744afdc1df90a2d037a52e5f0c7de3033019e94ebe7f80095785ffbb787654e4c28de49f382db12ffee4d69051bea48c4d37c9274266127a65b8d2daf3e9a6f942afe79bfd7e64bd27b4ef8cf1605e32cd49499ed47b8601e0b2b7531e245fe37130061bf22969fc1984316b8919ae0f30112ac32f7e95b00be1cff7b17e3df6660cae41d92e006d668b87e79919b7184aeed"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "1743a332aa7b8033ffe9bd29221384202f020a367e30482a7a2be57b5a98a604",
+  "ContentToHash": "v1|gh:chrispoole643,med:no-account,pat:no-account,post:no-account,spout:no-account,ss:no-account,t:chrispoole|2023-04-12T06:26:40Z"
+}
